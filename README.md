@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, Python, JavaScript, AI**
 
-- 📫 How to reach me **marcuoware@gmail.com**
+- 📫 How to reach me **marcuoware@gmail.com and you can also WhatsApp me on +2330501402692**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
