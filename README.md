@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cs50x, Cs50P, Cs50AI, Cs50W**
 
-- 🌱 I’m currently learning **Django,Flask, React,Kivy, TensorFlow**
+- 🌱 I’m currently learning **TensorFlow And Machine Learning(Artificial Intelligence)**
 
 - 💬 Ask me about **C, Python, JavaScript, AI**
 
