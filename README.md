@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weten-ogen&label=Profile%20views&color=0e75b6&style=flat" alt="weten-ogen" /> </p>
 
-<p align="center">I have been facinated by computers since  i was 7. Finally I am achieving my dream of working on computers. I am open to Jobs, Assitants, and also tech-talks.I will be very glad if you have any advice for me after going through my repos. Thank you</p>
+<p align="center">I have been fascinated by computers since  i was 7. Finally I am achieving my dream of working on computers. I am open to Jobs, Assitants, and also tech-talks.I will be very glad if you have any advice for me after going through my repos. Thank you</p>
 
 - 🔭 I’m currently working on **Cs50x, Cs50P, Cs50AI, Cs50W**
 
