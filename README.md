@@ -19,7 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weten-ogen&show_icons=true&locale=en&layout=compact" alt="weten-ogen" /></p>
 <br>
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weten-ogen&show_icons=true&locale=en" alt="weten-ogen" /></p>
-<hr>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weten-ogen&" alt="weten-ogen" /></p>
 
