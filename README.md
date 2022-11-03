@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weten-ogen&label=Profile%20views&color=0e75b6&style=flat" alt="weten-ogen" /> </p>
 
-<p align="center">I have been fascinated by computers since  i was 7. Finally I am achieving my dream of working on computers. I am open to Jobs, Assitants, and also tech-talks.I will be very glad if you have any advice for me after going through my repos. Thank you</p>
+<p align="center">I am open to collaborations , working on open source projects and also Jobs</p>
 
 - 🔭 I’m currently working on **Artificial Intelligence , Web Programming with Python and JavaScript ,  Bash Scripting**
 
