@@ -13,13 +13,6 @@
 
 - 📫 How to reach me **marcuoware@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/marus_oware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marus_oware" height="30" width="40" /></a>
-<a href="https://fb.com/marcus oware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcus oware" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marcus-oware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marcus-oware" height="30" width="40" /></a>
-<a href="https://discord.gg/Marcus-Oware#4885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marcus-Oware#4885" height="30" width="40" /></a>
-</p>
 
 <br>
 <div>
