@@ -6,11 +6,13 @@
 
 <p align="center">I am open to collaborations , working on open source projects</p>
 
-- 🔭 I’m currently working on ** Web Programming with Python and JavaScript ,  Bash Scripting**
+- 🔭 I’m currently working on **Sneakers-ecommerces, movatee-api**
 
-- 🌱 I’m currently learning **Next Js and Express Js **
+- 🌱 I’m currently learning **Next Js**
 
 
 - 📫 How to reach me **marcuoware@gmail.com**
+- 
+- whatsapp me on **+2330501492692**
 
 
