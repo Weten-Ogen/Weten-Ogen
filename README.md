@@ -13,6 +13,6 @@
 
 - 📫 How to reach me **marcuoware@gmail.com**
 
-- whatsapp me on **+2330501492692**
+
 
 
