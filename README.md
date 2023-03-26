@@ -13,12 +13,12 @@
 <div align="center">
   
   </br>
-  <a href="mailto:anteros.dev9471@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="marcuoware@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/antero-selin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/marcus-oware-bb4682229/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/antero9471" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://antero-me.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://vercel.com/dashboard" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
 
